@@ -11,7 +11,7 @@ To use this application, run "npm i" in the terminal to install npm. Next ensure
 ## Usage
 
 Below is a video of the application in use:
-
+https://drive.google.com/file/d/1DVnB3yRaPgaY1I7I2Hhv1Of05pe1y8IB/view
 
 ## Credits
 
